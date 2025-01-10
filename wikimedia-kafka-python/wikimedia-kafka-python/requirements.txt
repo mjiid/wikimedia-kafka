@@ -1,0 +1,4 @@
+confluent-kafka
+opensearch-py
+typing-extensions
+sseclient-py
